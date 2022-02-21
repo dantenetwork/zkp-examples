@@ -4,7 +4,7 @@
 
 #### [1.Installing the circom ecosystem](https://docs.circom.io/getting-started/installation/)
 
-#### [2.Review circuits](./ethereum/privateKeyProof/privateKeyProof.r1cs)
+#### [2.Review circuits](./ethereum/privateKeyProof/privateKeyProof.circom)
 
 #### [3.Generate trusted setup](https://docs.circom.io/getting-started/proving-circuits/)
 
