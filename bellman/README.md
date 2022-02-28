@@ -16,7 +16,7 @@ Bellman provides a `Circuit` trait which you can use to synthesize the constrain
 
 * 4.The `lc` in the `cs.enforce` function stands for "linear combination", and is an inner product of all the variables with some vector of coefficients.
 
-### Generating Parameters 
+### Generating parameters 
 
 * This example use the function `generate_random_parameters` to generate a random set of parameters for testing. For real use cases, these parameters would have to be generated securely, through a multi-party computation. 
 

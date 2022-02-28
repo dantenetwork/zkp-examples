@@ -1,5 +1,5 @@
 # Zero Knowledge Proof Examples
 
-### [Bellman Examples - Rust](./bellman/README.md)
+#### [Bellman Example - Rust](./bellman/README.md)
 
-### [Circom and SnarkJS Examples - ethereum](./ethereum/README.md)
+#### [Circom and SnarkJS Example - Solidity](./ethereum/README.md)

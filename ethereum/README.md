@@ -1,5 +1,8 @@
 ## Circom and SnarkJS Examples (ethereum)
 
+Example of circuit for [circom](https://github.com/iden3/circom), a Javascript zk-SNARKs library.
+
+
 #### [1.Installing the circom ecosystem](https://docs.circom.io/getting-started/installation/)
 
 #### [2.Review circuits](./ethereum/privateKeyProof/privateKeyProof.circom)
