@@ -1,7 +1,8 @@
-## Circom and SnarkJS Examples (ethereum)
+## Circom and SnarkJS Examples - Solidity
 
 Example of circuit for [circom](https://github.com/iden3/circom), a Javascript zk-SNARKs library.
 
+`privateKeyProof.circom` contains a circuit for the statement "I know the `private key` corresponding to this `public key`".
 
 #### [1.Installing the circom ecosystem](https://docs.circom.io/getting-started/installation/)
 

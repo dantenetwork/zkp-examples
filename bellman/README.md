@@ -4,7 +4,7 @@ Example of circuit for [bellman](https://github.com/zkcrypto/bellman/), a Rust z
 
 Bellman provides a `Circuit` trait which you can use to synthesize the constraints in your program.
  
- `cube.rs` contains a circuit for the statement "I know `x` such that `x^3 + x + 8 == 38`"
+ `cube.rs` contains a circuit for the statement "I know `x` such that `x^3 + x + 8 == 38`".
  
 ### Constructing a circuit  
 
