@@ -1,6 +1,6 @@
 # Zero Knowledge Proof Examples
 
-## Circom and SnarkJS (ethereum)
+## Circom and SnarkJS Examples (ethereum)
 
 #### [1.Installing the circom ecosystem](https://docs.circom.io/getting-started/installation/)
 
